@@ -16,7 +16,7 @@ Note: The CK18 and CK7 are express in cytoplasm so I set the threshold to captur
 Here is my cppipe and I can't find a way to set the overlap rate by classify or filter objects. :(
 
 
-
+https://github.com/CellProfiler/CellProfiler/issues/4987
 
 Thank you very much in advance!
 
